@@ -1,5 +1,5 @@
-# CNN_Project
-CCN Project 7 Day Bootcamp Successfull completed With ShapeAI.
+# Python_CNN_Project
+Python CCN Project 7 Day Bootcamp Successfull completed With ShapeAI.
 # SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
